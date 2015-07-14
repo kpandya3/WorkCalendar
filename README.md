@@ -102,6 +102,8 @@ This file extends the functionalities of default ruby date library.
 
 * Date also reads its settings for weekdays and holidays from WorkCalendar module for the sake of not having duplicate data. The alternative for that would be to set weekdays and holidays as class variables for Date class.
 
+* [A different implementation](https://github.com/kpandya91/WorkCalendar2) that doesn't temper with Date library
+
 #### WorkCalendar.rb
 [Documentation](http://kumarpandya.com/workcalendar/WorkCalendar.html)
 
